@@ -1,6 +1,5 @@
 //GuiaCincoQuestaoTres
 //Nome: Victor Leite de Andrade
-//Matricula: 656016
 //------------------------------
 
 module a(output s,input a,input b);
