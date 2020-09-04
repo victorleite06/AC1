@@ -1,5 +1,5 @@
-//Victor Leite de Andrade 656016
-module QuatroC;
+//Victor Leite de Andrade 
+module GuiaUmQuestaoQuatroC;
 
 reg [7:0] b = 8'b0101101;
 reg [7:0] h = 0;
