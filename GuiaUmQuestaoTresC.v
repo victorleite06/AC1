@@ -1,5 +1,5 @@
-//Victor Leite de Andrade 656016
-module TresC;
+//Victor Leite de Andrade 
+module GuiaUmQuestaoTresC;
 
 integer x = 67;
 reg [7:0] h = 0;
