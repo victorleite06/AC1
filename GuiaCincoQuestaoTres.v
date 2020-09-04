@@ -17,7 +17,7 @@ assign s = a & b;
 
 endmodule
 
-module Exemplo_0504;
+module GuiaCincoQuestaoTres;
 
 reg x;
 reg y;
