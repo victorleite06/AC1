@@ -1,5 +1,5 @@
 //Victor Leite de Andrade 656016
-module DoisC;
+module GuiaUmQuestaoDoisC;
 
 integer x = 0;
 reg [7:0] b = 8'b0101101;
