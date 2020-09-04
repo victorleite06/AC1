@@ -1,5 +1,5 @@
 //Victor Leite de Andrade 656016
-module QuatroB;
+module GuiaUmQuestaoQuatroB;
 
 reg [7:0] b = 8'b0010111;
 reg [7:0] o = 0;
