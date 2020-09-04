@@ -1,4 +1,4 @@
-//Victor Leite de Andrade 656016
+//Victor Leite de Andrade 
 module GuiaUmQuestaoQuatroB;
 
 reg [7:0] b = 8'b0010111;
