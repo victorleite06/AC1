@@ -1,4 +1,4 @@
-//Exemplo_0507
+//GuiaCincoQuestaoSeis
 //Nome: Victor Leite de Andrade
 //Matricula: 656016
 //------------------------------
@@ -17,7 +17,7 @@ assign s = ~(a ^ b);
 
 endmodule
 
-module Exemplo_0507;
+module GuiaCincoQuestaoSeis;
 
 reg x;
 reg y;
